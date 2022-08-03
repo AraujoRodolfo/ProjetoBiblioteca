@@ -49,3 +49,7 @@ O principal objetivo desse projeto é a informatização da biblioteca e blá bl
 ## Quer Contribuir?
 
 Sinta-se a vontade para baixar e alterar o projeto como bem entender. Caso identifique algum problema ou desenvolva alguma melhora, forks e pull requests serão bem-vindos!
+
+<hr>
+
+<div align='center'>Feito com ❤️ por 2DES</div>
