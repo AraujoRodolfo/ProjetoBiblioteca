@@ -7,16 +7,6 @@ O principal objetivo desse projeto é a informatização da biblioteca e blá bl
 1. Sistema Local para o uso do responsável pela biblioteca.
 2. Web/App para uso dos alunos dentro ou fora da escola.
 
-## Tecnologias Utilizadas
-
-<div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-
 ## Cronograma Semanal
 
 - [x] 29/07 - Definição do Escopo do Projeto, Formação das equipes e desenvolvimento de identidade
@@ -55,4 +45,14 @@ O principal objetivo desse projeto é a informatização da biblioteca e blá bl
 	* CLASSIFICAR LIVRO
 
 - [ ] 05/10 - Quarta feira
+
+## Tecnologias Utilizadas
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
 
