@@ -10,7 +10,7 @@ O principal objetivo desse projeto é a informatização da biblioteca e blá bl
 ## Cronograma Semanal
 
 - [x] 29/07 - Definição do Escopo do Projeto, Formação das equipes e desenvolvimento de identidade
-- [ ] 05/08 - Desenvolvimento dos módulos:
+- [x] 05/08 - Desenvolvimento dos módulos:
   * ADM (Login, Cadastro, Atualização, Alteração de Senha)
   * GENERO (Cadastro, Atualização, Exibição, Exclusão)
  
