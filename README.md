@@ -14,11 +14,11 @@ O principal objetivo desse projeto é a informatização da biblioteca e blá bl
   * ADM (Login, Cadastro, Atualização, Alteração de Senha)
   * GENERO (Cadastro, Atualização, Exibição, Exclusão)
  
-- [x]12/08 -desenvolvimento dos módulos:
+- [x] 12/08 -desenvolvimento dos módulos:
 	* LIVRO (Cadastro, Listagem, Atualização e Exclusão)
 	* ALUNO  (Cadastro, Listagem, Atualização e Exclusão)
 
-- [ ] 19/08 - Desenvolvimento dos módulos:
+- [X] 19/08 - Desenvolvimento dos módulos:
 	* CONSULTA/BUSCA
 	  * Consulta de Livros no acervo por: titulo, autor, genero, classificação indicativa;
 	  * Consulta de Alunos por: nome, turma;
